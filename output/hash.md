@@ -5,10 +5,11 @@
 を使用します。
 
 （例）<br>
-hash = {one: 1, two: 2, three: 3}<br>
-puts hash.keys<br>
+```ruby
+hash = {one: 1, two: 2, three: 3}
+puts hash.keys
 puts hash.values
-
+```
 ```:ターミナル
 one
 two
