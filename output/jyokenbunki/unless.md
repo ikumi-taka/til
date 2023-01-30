@@ -2,10 +2,10 @@
 
 ## unless文
 「もし〇〇だったら□□をする」という処理をします。<br>
-unless文はif文と反対で、条件式が「偽(false)」の時に処理が実行されます。
+unless文はif文と反対で、条件式が「偽(false)」の時に処理が実行されます。<br>
 unless文にelsif を指定することはできないです。
 
-公式リファレンスを参考にしました。
+公式リファレンスを参考にしました。<br>
 https://docs.ruby-lang.org/ja/latest/doc/spec=2fcontrol.html#unless
 
 ```ruby
@@ -15,7 +15,7 @@ else
   処理2（条件式がtrueのときに実行）
 end
 ```
-unless文は、条件式が「正しい」か「正しくないか」で実行する処理を分岐させています。<br>
+unless文は、if文と同様に条件式が「正しい」か「正しくないか」で実行する処理を分岐させています。<br>
 ***「正しい」 = true***<br>
 ***「正しくないか」 = false***<br>
 条件式が正しくない（false）なら、処理1を実行。<br>
