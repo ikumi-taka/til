@@ -1,5 +1,5 @@
 # each_with_index
-each_with_indexはRubyに標準で組み込まれているメソッドです。
+each_with_indexはRubyに標準で組み込まれているメソッドです。<br>
 繰り返し処理をしながら、その要素が何番目に処理されたのか、表示することができます。
 
 ```ruby
