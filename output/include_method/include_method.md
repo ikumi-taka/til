@@ -24,3 +24,14 @@ puts string.include?("thanks")
 false
 # ターミナル出力
 ```
+
+応用例:大文字小文字を区別せずに検索する
+```ruby
+string = "Hello World"
+puts string.downcase.include?("hello world")
+```
+```ruby
+true
+# ターミナル出力
+```
+downcaseメソッドは、大文字を小文字に変換します。
