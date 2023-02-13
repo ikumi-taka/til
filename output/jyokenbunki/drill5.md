@@ -21,6 +21,10 @@ end
 # 呼び出し例
 sleep_in(false, false)
 ```
+```ruby
+true
+# ターミナル出力
+```
 
 ## 解説
 
