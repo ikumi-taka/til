@@ -45,7 +45,13 @@ SaaSでは、クラウドサーバーのソフトウェアを利用するため�
 - Dropbox…写真や文書ファイルをインターネット上に保管できるオンラインストレージサービス
 - Salesforce…SFA（営業支援システム）・CRM（顧客管理システム）
 
+## Paasとは？<br>
+「Platform as a Service」の略称です。読み方は「パース」。<br>
+システムやアプリケーションを開発するためのOSやミドルウェアなどのプラットフォームを、インターネットなどのネットワークを経由して提供しているクラウドサービスです。<br>
 
+## Iaasとは？<br>
+「Infrastructure as a Service」の略称。「イアース」「アイアース」と読みます。<br>
+サーバーやネットワークなどのインフラを、インターネットなどのネットワークを経由して提供しているクラウドサービスです。<br>
 
 ## 参考文献
 https://www.ntt.com/business/services/application/crm-dm/bconnection/lp/article-saas-invoice.html
