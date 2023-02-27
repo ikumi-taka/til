@@ -55,4 +55,4 @@ SaaSでは、クラウドサーバーのソフトウェアを利用するため�
 
 ## 参考文献
 https://www.ntt.com/business/services/application/crm-dm/bconnection/lp/article-saas-invoice.html
-- Gmail …Googleが提供するフリーメールサービス
+
