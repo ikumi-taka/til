@@ -37,6 +37,7 @@
 特許の取得 => 内部環境 => strength（強み）に分類される<br>
 円高 => 外部環境 => threats（脅威）に分類される<br><br>
 
+ある自動車会社のSWOT分析
 |         | 良い影響    |悪い影響     | 
 | ------- | --------- | ---------- | 
 |内部環境  |strengths<br>たくさんの特許<br>良いブランドイメージ|weaknesses<br>社員のモチベーション低下<br>離職率増加 | 
@@ -44,13 +45,3 @@
 
 
 
-## PPM
-PPM（product portfolio management）。<br>
-SWOT分析を実施し「自社を取り巻く経営環境」を把握した後にPPMを使って分析を行います。<br>
-この分析を行うことで、***自社の資源を投下すべき製品や、撤退すべき製品を見極める***ことができます。<br>
-
-[![Image from Gyazo](https://i.gyazo.com/72e4e51abacd47ce7fd55800405cda9f.png)](https://gyazo.com/72e4e51abacd47ce7fd55800405cda9f)
-
-# 参考文献
-
-https://www.profuture.co.jp/mk/column/6149
